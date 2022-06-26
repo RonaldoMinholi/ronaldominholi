@@ -4,7 +4,7 @@
 - 🎓 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas nas Faculdades FIAP de São Paulo.
 - 📚 Na fase atual estou aprendendo HTML, CSS e JS, com o uso do framework Bootstrap. Já passamos por Python, Banco de Dados, Oracle Data Modeler, SQL Developer, Metodologias Ágeis, Figma, Miro, Trello, Marvel, UX / UI, Git e GitHub.
 - 🔭 Procuro reforçar o aprendizado obtendo outros conhecimentos assistindo playlists de vídeos no YouTube e participando de BootCamps.
-- 🤔 Como ainda estou conhecento as linguagens de programação, estou em busca de bastante conhecimento para definir a linguagem que vou seguir e conquistar um estágio na área de tecnologia para acelerar o meu desenvolvimento.
+- 🤔 Como ainda estou conhecento as linguagens de programação, estou em busca de bastante conhecimento para definir a linguagem que vou seguir na área de tecnologia para acelerar o meu desenvolvimento.
 - 💬 Disponível para contatos.
 
 <div align="center">
