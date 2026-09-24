@@ -7,23 +7,20 @@ on:
 
 jobs:
   gerar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
     permissions:
       contents: write
 
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-
     steps:
-      - name: Gerar SVG da cobrinha
-        uses: Platane/snk@v3
+      - uses: Platane/snk@v3
         with:
           github_user_name: RonaldoMinholi
           outputs: |
             dist/github-contribution-grid-snake.svg?palette=github-light
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Publicar animação
-        uses: crazy-max/ghaction-github-pages@v4
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
