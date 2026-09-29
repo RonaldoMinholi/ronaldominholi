@@ -14,7 +14,16 @@ Não me apresento como desenvolvedor tradicional. Uso IA como ferramenta de trab
 
 ## Tecnologias e ferramentas que utilizo
 
-`Python` · `Power BI` · `Supabase` · `Next.js` · `GitHub` · `APIs` · `Excel/VBA` · `Blender` · `OpenSCAD`
+<p>
+  <img src="https://skillicons.dev/icons?i=python,nextjs,supabase,git,github,postman,blender,vscode" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Excel%20%2F%20VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel e VBA" />
+  <img src="https://img.shields.io/badge/APIs%20REST-333333?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="APIs REST" />
+  <img src="https://img.shields.io/badge/OpenSCAD-333333?style=for-the-badge" alt="OpenSCAD" />
+</p>
 
 ## Repositórios
 
